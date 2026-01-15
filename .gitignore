@@ -27,8 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/Spotify.iml
+/.idea/
+*.iml
