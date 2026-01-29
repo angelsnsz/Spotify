@@ -1,4 +1,4 @@
-import presentation.SongView;
+import features.songs.presentation.SongView;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
