@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 public class AuthorView {
 
-    public void printAuthors() {
+    public static void printAuthors() {
         GetAuthorsUseCase getAuthorsUseCase = new GetAuthorsUseCase(
                 new AuthorDataRepository(
                         new AuthorMemLocalDataSource(),

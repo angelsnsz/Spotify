@@ -15,6 +15,4 @@ public class GetAuthorsUseCase {
     public ArrayList<Author> execute(){
         return authorRepository.getAuthors();
     }
-
-
 }
